@@ -1,14 +1,18 @@
-## About me
+## Hi 👋 I'm an enthusiastic Data Analyst
 
+🔍 Tech Operations Analyst Transitioning to Data Analytics & Business Intelligence
 
-**Prajwal-Kumar-19/Prajwal-Kumar-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 2 years of experience as a Tech Operations Analyst in a Backend support
 
-Here are some ideas to get you started:
+🔄 Seeking to leverage operational insights into data-driven decision making
 
-- 🔭 I’m currently working on projects related to Data analytics
-- 🌱 I’m currently updating my skills in Excel, SQL, Power BI & tools related for analytics
-- 💬 Ask me about my carrer path
-- 📫 How to reach me: www.linkedin.com/in/prajwalkumart
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a multitasker 
+📊 Passionate about transforming raw data into actionable business insights
 
+🧠 Eager to apply analytical skills to solve complex business challenges
+
+🌱 Continuously expanding knowledge in data science and BI tools
+
+🤝 Open to collaborate on projects involving data analysis and visualization
+
+🛠️ Tools & Skills:
+SQL | Excel | Power BI | Statistics | Data Cleaning | Data mining | Data visualization | 
