@@ -1,18 +1,8 @@
-## Hi 👋 I'm an enthusiastic Data Analyst
+## 👋 Hi  I'm Prajwal Kumar
 
-🔍 Tech Operations Analyst Transitioning to Data Analytics & Business Intelligence
+Highly motivated and collaborative professional with a robust background in data analytics, eager to leverage my expertise to drive strategic initiatives and deliver impactful insights. I excel in synthesizing complex data into clear, actionable strategies, thanks to my proficiency in Advanced Excel, SQL, PostGreSQL, Statistics and Power BI. My career journey as a Data Analyst Trainee, Associate, and Operations Anlyst has honed my skills in analytics and strategic decision-making, enabling me to contribute effectively to any team.
 
-💼 2 years of experience as a Tech Operations Analyst in a Backend support
 
-🔄 Seeking to leverage operational insights into data-driven decision making
+I am passionate about continuous learning and thrive in environments that challenge my analytical and creative problem-solving abilities. I am actively seeking opportunities in financial analysis, data analytics, and related fields where I can make a meaningful impact and further develop my skill set. Let's connect to explore how I can contribute to your organization's success. #OpenToWork #DataDriven #FinanceExpert
 
-📊 Passionate about transforming raw data into actionable business insights
-
-🧠 Eager to apply analytical skills to solve complex business challenges
-
-🌱 Continuously expanding knowledge in data science and BI tools
-
-🤝 Open to collaborate on projects involving data analysis and visualization
-
-🛠️ Tools & Skills:
-SQL | Excel | Power BI | Statistics | Data Cleaning | Data mining | Data visualization | 
+📫 Reach me @ https://www.linkedin.com/in/prajwalkumart
